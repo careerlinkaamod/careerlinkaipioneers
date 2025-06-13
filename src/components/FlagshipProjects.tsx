@@ -68,7 +68,7 @@ const FlagshipProjects = () => {
     textColor: "text-purple-800",
     row: 1,
     position: 1,
-    url: "https://gps.careerlink.ai/circle/landslide-detection-analyzing-satellite-images-for-environmental-monitoring"
+    url: "https://gps.careerlink.ai/circle/landslide-detection-analyzing-satellite-images-for-environmental-monitoring-4f9ffd6c58"
   }, {
     level: "Advanced",
     icon: Brain,
